@@ -3,11 +3,20 @@
 
 
 
-Publications:
+Publised:
 
-[1] [SignFormer-GCN: Continuous sign language translation using spatio-temporal graph convolutional networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316298)[PLOS One]
+[1] [T3Time: Tri-Modal Time Series Forecasting via Adaptive Multi-Head Alignment and Residual Fusion](https://arxiv.org/abs/2508.04251)[Accepted at AAAI 2026 Main Technical Track] 
 
-[2] [Classical machine learning approach for human activity recognition using location data](https://dl.acm.org/doi/abs/10.1145/3460418.3479376)[UbiComp/ISWC]
+[2] [SignFormer-GCN: Continuous sign language translation using spatio-temporal graph convolutional networks](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316298)[WiML Workshop, Neurips 2025; PLOS One]
+
+[3] [Classical machine learning approach for human activity recognition using location data](https://dl.acm.org/doi/abs/10.1145/3460418.3479376)[UbiComp/ISWC]
+
+
+Preprint:
+
+[1] [Counting Through Occlusion: Framework for Open World Amodal Counting]()[Submitted to CVPR 2026]
+
+[2] [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://arxiv.org/abs/2509.23155)[Submitted to ICLR 2026]
 
 ## Connect with me
 
