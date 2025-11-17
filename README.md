@@ -18,6 +18,8 @@ Preprint:
 
 [2] [LAGEA: Language Guided Embodied Agents for Robotic Manipulation](https://arxiv.org/abs/2509.23155)[Submitted to ICLR 2026]
 
+[3] [Bornil : An open-source sign language data crowdsourcing platform for AI enabled dialect-agnostic communication](https://arxiv.org/pdf/2308.15402)
+
 ## Connect with me
 
 [![image](https://img.shields.io/twitter/url?label=Rabeya%20Akter&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fhp%2F)](https://www.linkedin.com/in/rabeya-akter-4a3111174/)
